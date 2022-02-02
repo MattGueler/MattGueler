@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @MattGueler
+- 👀 I’m interested in several things about DataScience, mobile, WebDeveloper(front and back)
+- 🌱 I’m currently learning Apps to mobile(AppInventor), Python, SQL, JS and a little bit about HTML.
+- 📫 How to reach me mateus.gueler.social@gmail.com
